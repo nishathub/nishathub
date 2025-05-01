@@ -14,6 +14,29 @@
 - Design and structure a MongoDB database
 - Deploy full-stack apps using platforms like Firebase, Vercel, or Netlify
 
+### ⚙ Tech Stack
+
+I mostly work with **JavaScript**, specifically **React.js** in the frontend and **Node.js** in the backend with **MongoDB** as the cloud.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?logo=daisyui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+
+
+
+
+ 
+
 
 <!--
 **nishathub/nishathub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
