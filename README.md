@@ -1,6 +1,7 @@
 # Hello! I'm Ashraf 👋
 <p>A Front-End Developer specialized in React.js. </p>
-<p>I have a strong passion for building modern, responsive web applications using technologies like <i>React</i>, <i>JavaScript</i>, and the broader <i>⚡MERN</i> stack. I’ve built multiple full-stack projects from scratch, giving me hands-on experience with both client-side interfaces and server-side logic. While I focus primarily on front-end development, I’m also comfortable working in the <i>Node.js</i> environment. I’ve implemented custom user authentication using <i>JSON Web Tokens (JWT)</i>, handled secure API requests, and managed data flow between front-end and back-end with ease. I enjoy solving problems, refining user experiences, and bringing ideas to life through code.</p>
+<p>I have a strong passion for building modern, responsive web applications using technologies like <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a strong self-taught foundation despite a non-CSE bachelor's degree.<br>
+I’ve built multiple full-stack projects from scratch, giving me hands-on experience with both client-side interfaces and server-side logic. I've developed and consumed <strong>RESTful APIs</strong>, implemented <strong>JWT-based authentication</strong>, and managed seamless data flow between front-end and back-end. I enjoy solving problems, refining <strong>UX</strong>, and bringing ideas to life through clean, user-focused interfaces.</p>
 
 ### 🔧 What I Can Do in Full-Stack MERN Projects
 
