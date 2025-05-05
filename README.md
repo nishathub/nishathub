@@ -1,3 +1,5 @@
+<p><img src="https://media.licdn.com/dms/image/v2/D5616AQGUpQEjjOsvtg/profile-displaybackgroundimage-shrink_350_1400/B56ZafLa5CGoAc-/0/1746427294585?e=1752105600&v=beta&t=mbLefoQEpHWG0Dvz-f8TIuHG-K3Wj3CAkivwdBApdWo"></p>
+
 # Hello! I'm Ashraf 👋
 <p>A Front-End Developer specialized in React.js. </p>
 <p>I have a strong passion for building modern, responsive web applications using technologies like <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a strong self-taught foundation despite a non-CSE bachelor's degree.<br>
