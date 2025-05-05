@@ -5,6 +5,13 @@
 <p>I have a strong passion for building modern, responsive web applications using technologies like <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a strong self-taught foundation despite a non-CSE bachelor's degree.<br>
 I’ve built multiple full-stack projects from scratch, giving me hands-on experience with both client-side interfaces and server-side logic. I've developed and consumed <strong>RESTful APIs</strong>, implemented <strong>JWT-based authentication</strong>, and managed seamless data flow between front-end and back-end. I enjoy solving problems, refining <strong>UX</strong>, and bringing ideas to life through clean, user-focused interfaces.</p>
 
+### 🔗 Connect with Me
+[![Resume](https://img.shields.io/badge/📄%20Resume-0078D4?logoColor=white)](https://drive.google.com/file/d/1fQG2VQj5l6Qc1Uz3hlZVjfO62Fw0Clkd/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?)](https://ashraf-portfolio-wd.web.app)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?)](https://www.linkedin.com/in/ashrafalibutex42/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashraf.ali.butex42@gmail.com)
+
+
 ### 🔧 What I Can Do in Full-Stack MERN Projects
 
 - Build modern, responsive UIs using React.js with Tailwind CSS, Material UI, and DaisyUI
