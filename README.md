@@ -6,7 +6,7 @@
 I’ve built multiple full-stack projects from scratch, giving me hands-on experience with both client-side interfaces and server-side logic. I've developed and consumed <strong>RESTful APIs</strong>, implemented <strong>JWT-based authentication</strong>, and managed seamless data flow between front-end and back-end. I enjoy solving problems, refining <strong>UX</strong>, and bringing ideas to life through clean, user-focused interfaces.</p>
 
 ### 🔗 Connect with Me
-[![Resume](https://img.shields.io/badge/📄%20Resume-0078D4?logoColor=white)](https://drive.google.com/file/d/1fQG2VQj5l6Qc1Uz3hlZVjfO62Fw0Clkd/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/📄%20Resume-0078D4?logoColor=white)](https://drive.google.com/file/d/1j7mXLo0F8lxl8fyg5Dnq-b0xnGxVDuuG/view?usp=sharing)
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?)](https://ashraf-portfolio-wd.web.app)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?)](https://www.linkedin.com/in/ashrafalibutex42/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashraf.ali.butex42@gmail.com)
