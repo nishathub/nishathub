@@ -1,4 +1,4 @@
-<p><img src="https://media.licdn.com/dms/image/v2/D5616AQGUpQEjjOsvtg/profile-displaybackgroundimage-shrink_350_1400/B56ZafLa5CGoAc-/0/1746427294585?e=1752105600&v=beta&t=mbLefoQEpHWG0Dvz-f8TIuHG-K3Wj3CAkivwdBApdWo"></p>
+<p><img src="https://res.cloudinary.com/dntewbvod/image/upload/v1752297299/ashraf-web-dev-banner_xxwzvq.jpg"></p>
 
 # Hello! I'm Ashraf 👋
 <p>A Front-End Developer specialized in React.js. </p>
