@@ -1,9 +1,9 @@
 <p><img src="https://res.cloudinary.com/dntewbvod/image/upload/v1752297299/ashraf-web-dev-banner_xxwzvq.jpg"></p>
 
 # Hello! I'm Ashraf 👋
-<p>A Front-End Developer specialized in React.js. </p>
-<p>I have a strong passion for building modern, responsive web applications using technologies like <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a strong self-taught foundation despite a non-CSE bachelor's degree.<br>
-I’ve built multiple full-stack projects from scratch, giving me hands-on experience with both client-side interfaces and server-side logic. I've developed and consumed <strong>RESTful APIs</strong>, implemented <strong>JWT-based authentication</strong>, and managed seamless data flow between front-end and back-end. I enjoy solving problems, refining <strong>UX</strong>, and bringing ideas to life through clean, user-focused interfaces.</p>
+<p>A Front-End Developer specialized in <strong>React.js</strong> and <strong>Next.js</strong>.</p>
+<p>I have a strong passion for building modern, responsive web applications using technologies like <strong>Next.js</strong>, <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a strong self-taught foundation despite a non-CSE bachelor's degree.</p>
+<p>I’ve built multiple full-stack projects from scratch, including dynamic apps using <strong>Next.js App Router</strong>, custom <strong>API Routes</strong>, and secure, scalable back-end logic. I have hands-on experience with <strong>Zustand</strong> for efficient state management, <strong>JWT-based authentication</strong> for secure user flows, and integrations like <strong>Stripe</strong> and <strong>Nodemailer</strong> for real-world functionality. I enjoy designing and consuming <strong>RESTful APIs</strong>, solving complex problems, and refining <strong>UX</strong> with reusable, modular components. My goal is to bring ideas to life through clean, user-focused interfaces and modern best practices.</p>
 
 ### 🔗 Connect with Me
 [![Resume](https://img.shields.io/badge/📄%20Resume-0078D4?logoColor=white)](https://docs.google.com/document/d/1Z7rp08uI8xHl0tulbbvn0-K1c9otI0mfOo34c2c8djM/edit?usp=sharing)
