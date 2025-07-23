@@ -12,35 +12,44 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashraf.ali.butex42@gmail.com)
 
 
-### 🔧 What I Can Do in Full-Stack MERN Projects
+### What I Can Do in Full-Stack MERN & Next.js Projects
 
-- Build modern, responsive UIs using React.js with Tailwind CSS, Material UI, and DaisyUI
-- Develop secure user authentication & authorization with JWT
-- Manage protected routes and handle secure API requests using Axios
-- Integrate and manage cloud-based image storage via Cloudinary and imageBB
-- Set up role-based access control for admin/user systems
-- Connect web apps with external services like the Telegram API for real-time messaging
-- Create and consume RESTful APIs using Node.js and Express.js
-- Design and structure a MongoDB database
-- Deploy full-stack apps using platforms like Firebase, Vercel, or Netlify
+- Build modern, responsive UIs using **React.js** and **Next.js** with **Tailwind CSS**, **Material UI**, and **DaisyUI**
+- Develop custom, secure **authentication** and **authorization** systems with **JWT** and **bcrypt**
+- Implement **protected routes** and secure **API requests** using **Axios**, central **Middleware** and **Next.js API Routes**
+- Manage state efficiently with **Zustand**
+- Integrate **Stripe Checkout** for secure payment processing
+- Automate emails and notifications with **Nodemailer**
+- Connect and manage cloud image storage using **Cloudinary** and **imageBB**
+- Set up **role-based access control** for different users.
+- Build and consume **RESTful APIs** with **Node.js** and **Express.js**
+- Design, structure, and query data using **MongoDB**
+- Integrate external services like the **Telegram API** for real-time messaging
+- Deploy full-stack apps on **Vercel**, **Firebase**, or **Netlify**
 
-### ⚙ Tech Stack
+### Tech Stack
 
-I mostly work with **JavaScript**, specifically **React.js** in the frontend and **Node.js** in the backend with **MongoDB** as the cloud.
+I primarily work with **JavaScript**, developing modern, full-stack web applications using **React.js**, **Next.js**, and **Node.js**, with **MongoDB** as the database. I combine these with powerful tools for styling, state management, secure authentication, and third-party integrations to build robust, user-focused solutions.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=Zustand&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-3c3c3c?logo=gmail&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?logo=daisyui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white)
 
 
 <p align="left">
