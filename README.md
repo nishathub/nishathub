@@ -2,7 +2,7 @@
 
 # Hello! I'm Ashraf 👋
 <p>A Front-End Developer specialized in <strong>React.js</strong> and <strong>Next.js</strong>.</p>
-<p>I have a strong passion for building modern, responsive web applications using technologies like <strong>Next.js</strong>, <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a strong self-taught foundation despite a non-CSE bachelor's degree.</p>
+<p>I have a strong passion for building modern, responsive web applications using technologies such as <strong>Next.js</strong>, <strong>React</strong>, <strong>JavaScript</strong>, and the broader <strong>MERN</strong> stack, driven by a self-taught foundation despite holding a non-CSE bachelor's degree.</p>
 <p>I’ve built multiple full-stack projects from scratch, including dynamic apps using <strong>Next.js App Router</strong>, custom <strong>API Routes</strong>, and secure, scalable back-end logic. I have hands-on experience with <strong>Zustand</strong> for efficient state management, <strong>JWT-based authentication</strong> for secure user flows, and integrations like <strong>Stripe</strong> and <strong>Nodemailer</strong> for real-world functionality. I enjoy designing and consuming <strong>RESTful APIs</strong>, solving complex problems, and refining <strong>UX</strong> with reusable, modular components. My goal is to bring ideas to life through clean, user-focused interfaces and modern best practices.</p>
 
 ### 🔗 Connect with Me
