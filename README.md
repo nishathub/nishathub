@@ -20,7 +20,7 @@
 - Manage state efficiently with **Zustand**
 - Integrate **Stripe Checkout** for secure payment processing
 - Automate emails and notifications with **Nodemailer**
-- Connect and manage cloud image storage using **Cloudinary** and **imageBB**
+- Connect and manage cloud image storage using **Cloudinary** and **imgBB**
 - Set up **role-based access control** for different users.
 - Build and consume **RESTful APIs** with **Node.js** and **Express.js**
 - Design, structure, and query data using **MongoDB**
