@@ -1,4 +1,4 @@
-<p><img src="https://res.cloudinary.com/dntewbvod/image/upload/v1752297299/ashraf-web-dev-banner_xxwzvq.jpg"></p>
+<p><img src="https://res.cloudinary.com/dntewbvod/image/upload/v1753757350/Ashraf-wd-linkedIn-cover-banner-v2_iihbhh.png"></p>
 
 # Hello! I'm Ashraf 👋
 <p>A Front-End Developer specialized in <strong>React.js</strong> and <strong>Next.js</strong>.</p>
